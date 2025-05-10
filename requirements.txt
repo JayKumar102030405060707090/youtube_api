@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+youtube-search-python
+yt-dlp
+python-multipart
+gunicorn
