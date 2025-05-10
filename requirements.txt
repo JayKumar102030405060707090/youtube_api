@@ -1,6 +1,6 @@
-fastapi
-uvicorn
-youtube-search-python
-yt-dlp
-python-multipart
-gunicorn
+fastapi==0.95.2
+uvicorn==0.22.0
+youtube-search-python==1.6.6
+yt-dlp==2023.7.6
+python-multipart==0.0.6
+gunicorn==20.1.0
